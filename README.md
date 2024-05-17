@@ -17,7 +17,7 @@ It's based on the principles and techniques taught in the book "Crafting Interpr
 ### Installation
 
 1. Clone the repository
-  git clone https://github.com/yourusername/toy-interpreter.git
+  git clone https://github.com/joelb101/toy-interpreter.git
 
 2. Navigate to the project directory
    cd toy-interpreter
